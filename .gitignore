@@ -29,8 +29,3 @@ dist/
 
 # Logs
 *.log
-
-# models
-model.pkl
-scaler.pkl
-feature_names.pkl
